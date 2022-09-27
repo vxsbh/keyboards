@@ -1,6 +1,6 @@
 # Keebs config files
 
-This repository is a backup for my keyboard's config files
+This repository is a backup for my keyboards config files
 
 FOR IBM MODEL M :
 
