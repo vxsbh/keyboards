@@ -1,4 +1,3 @@
-# Keyboards
 # This repository holds the config files for all my keebs.
 
 This repository is a backup for my keyboard's config files
